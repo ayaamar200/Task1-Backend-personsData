@@ -1,0 +1,9 @@
+[
+    { "id": 1, "fname": "Aya", "lname": "Sayed", "city": "Cairo", "age": 22 },
+    { "id": 2, "fname": "Mohamed", "lname": "Sayed", "city": "Cairo", "age": 23 },
+    { "id": 3, "fname": "Amira", "lname": "Sayed", "city": "Cairo", "age": 19 },
+    { "id": 4, "fname": "Sarah", "lname": "Sayed", "city": "Cairo", "age": 17 },
+    { "id": 5, "fname": "Abdallh", "lname": "Sayed", "city": "Cairo", "age": 22 },
+    { "id": 6, "fname": "Samy", "lname": "Ahmed", "city": "Alex", "age": 20 },
+    { "id": 7, "fname": "Ali", "lname": "Ahmed", "city": "Alex", "age": 15 }
+]
